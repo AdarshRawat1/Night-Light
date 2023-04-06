@@ -1,2 +1,2 @@
 # Night-Light
-This an Open-source dark mode Extension that reduces eye strain. 
+Creating a Open-source dark mode Extension that reduces eye strain. 
